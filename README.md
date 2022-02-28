@@ -5,7 +5,7 @@ A python3 version of a web browser, which opens, searches, and more into a brows
 PyBrowser can do numerous amounts of work in your browser. It can search up a webpage (wow!), search google, and many more things!
 
 # Commands
-Type "cmds" to see the list of commands available.
+Type `cmds` to see the list of commands available.
 
 # Compatability
 This python script only works on Windows and Mac, due to the module in this script not working on different OS' such as linux.

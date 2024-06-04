@@ -1,8 +1,3 @@
-# |-----------------------|
-# |      Web Browser      |
-# |      By SpaceN64      |
-# |-----------------------|
-
 # Imports
 from http import HTTPStatus
 import webbrowser as wb
